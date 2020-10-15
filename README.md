@@ -1,6 +1,9 @@
 # Description
 Ipython script for solving Boltzmann equation for kinetic decoupling of wino and SU(2)-multiplet dark matter and computing their effects on cosmological perturbation evolutions.
 
+## Refrence
+- S. Ando, A. Kamada, T. Sekiguchi and T. Takahashi, "Smallest Halos in Thermal Wino Dark Matter," Phys.Rev.D 100 (2019) 12, 123519 (https://inspirehep.net/literature/1717509)
+
 # Prerequisites 
 * Python
 * Ipython
