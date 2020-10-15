@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/toyokazu-sekiguchi/EWDM/5d6fa3aaec1973735abb0bb22f7b2fca0433ecd6/Pkratio.png" width="450" height="300">
 </div>
 
