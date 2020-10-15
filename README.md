@@ -1,9 +1,10 @@
+<img src="https://raw.githubusercontent.com/toyokazu-sekiguchi/EWDM/5d6fa3aaec1973735abb0bb22f7b2fca0433ecd6/Pkratio.png" width="600" height="400">
+
 # Description
 IPython script for solving Boltzmann equation for kinetic decoupling of wino and SU(2)-multiplet dark matter and computing their effects on cosmological perturbation evolutions.
 
-- Author: Toyokazu Sekiguchi
+## Author: Toyokazu Sekiguchi
 
-<img src="https://raw.githubusercontent.com/toyokazu-sekiguchi/EWDM/5d6fa3aaec1973735abb0bb22f7b2fca0433ecd6/Pkratio.png" width="100" height="100">
 
 ## Refrence
 - S. Ando, A. Kamada, T. Sekiguchi and T. Takahashi, "Smallest Halos in Thermal Wino Dark Matter," Phys.Rev.D 100 (2019) 12, 123519 (https://inspirehep.net/literature/1717509)
