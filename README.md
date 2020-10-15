@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/toyokazu-sekiguchi/EWDM/5d6fa3aaec1973735abb0bb22f7b2fca0433ecd6/Pkratio.png" width="300" height="200">
+<img src="https://raw.githubusercontent.com/toyokazu-sekiguchi/EWDM/5d6fa3aaec1973735abb0bb22f7b2fca0433ecd6/Pkratio.png" width="450" height="300">
 
 # Description
 IPython script for solving Boltzmann equation for kinetic decoupling of wino and SU(2)-multiplet dark matter and computing their effects on cosmological perturbation evolutions.
