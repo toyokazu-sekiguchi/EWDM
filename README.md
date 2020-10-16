@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/toyokazu-sekiguchi/EWDM/commit/9a630df55f66c2ee18456debf0605d00d51f43ad#diff-d0598ad700c94ee937f540dd9012c210ebd0c93f88137e46ebb8985cca196c2a" width="450" height="300">
+<img src="https://github.com/toyokazu-sekiguchi/EWDM/blob/main/Pkratio.png" width="450" height="300">
 </div>
 
 # Description
